@@ -8,4 +8,6 @@ This is the introduction to the README document for the try_git repository.
 
 ## Background ##
 
-Additional background information goes here for README information.
+Not sure what I'll put here. This is a collection of test files and other stuff for experimenting with git.
+ 
+
